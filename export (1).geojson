@@ -1,0 +1,387 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-08-12T11:38:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746634468",
+        "name": "Nilayyanahatti",
+        "name:kn": "ನೀಲಯ್ಯನಹಟ್ಟಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3013546,
+          14.2568022
+        ]
+      },
+      "id": "node/2746634468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746634577",
+        "name": "Maragatta",
+        "name:kn": "ಮಾರಗಟ್ಟ",
+        "name:kn:iso15919": "Māragaṭṭa",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3258207,
+          14.2610367
+        ]
+      },
+      "id": "node/2746634577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746634633",
+        "name": "Sadarahalli",
+        "name:kn": "ಸಾದರಹಳ್ಳಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3080803,
+          14.2654684
+        ]
+      },
+      "id": "node/2746634633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746634759",
+        "name": "Balagatte",
+        "name:kn": "ಬಳಗಟ್ಟೆ",
+        "name:kn:iso15919": "Baḷagaṭṭe",
+        "note": "Listed as 'ಬಳಗಟ್ಟೆ' at http://www.bhoomi.karnataka.gov.in/bhoomi/",
+        "place": "village",
+        "source": "State records and AMS maps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3073257,
+          14.2776083
+        ]
+      },
+      "id": "node/2746634759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746635023",
+        "name": "Sultanipura",
+        "name:kn": "ಸುಲ್ತಾನಿಪುರ",
+        "name:kn:iso15919": "Sultānipura",
+        "place": "village",
+        "source": "State records and AMS maps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3501507,
+          14.3353515
+        ]
+      },
+      "id": "node/2746635023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746635107",
+        "name:kn": "ಚಿಕ್ಕಪ್ಪನಹಳ್ಳಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3720102,
+          14.3385671
+        ]
+      },
+      "id": "node/2746635107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2746635188",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3242475,
+          14.3492705
+        ]
+      },
+      "id": "node/2746635188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2963133381",
+        "name": "Guttinadu",
+        "name:kn": "ಗುತ್ತಿನಾಡು",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3353076,
+          14.2564357
+        ]
+      },
+      "id": "node/2963133381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2963133382",
+        "name": "Lakshmi Sagara",
+        "name:kn": "ಲಕ್ಷ್ಮೀ ಸಾಗರ",
+        "name:kn:iso15919": "Lakṣmī Sāgara",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2857824,
+          14.2785292
+        ]
+      },
+      "id": "node/2963133382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2963133383",
+        "name": "Rayanahalli",
+        "name:kn": "ರಾಯನಹಳ್ಳಿ",
+        "name:kn:iso15919": "Rāyanahaḷḷi",
+        "place": "village",
+        "source": "State records and AMS maps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3526202,
+          14.3158484
+        ]
+      },
+      "id": "node/2963133383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2963133384",
+        "name": "Siddavvanadurga",
+        "name:kn": "ಸಿದ್ದವ್ವನದುರ್ಗ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3219182,
+          14.3249187
+        ]
+      },
+      "id": "node/2963133384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2963133385",
+        "name": "Vijapura",
+        "name:kn": "ವಿಜಾಪುರ",
+        "name:kn:iso15919": "Vijāpura",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2812909,
+          14.2909078
+        ]
+      },
+      "id": "node/2963133385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964954239",
+        "name": "Tamatakallu",
+        "name:kn": "ತಮಟಕಲ್ಲು",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3713864,
+          14.2725374
+        ]
+      },
+      "id": "node/2964954239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2966389252",
+        "name": "Hirekabbigere",
+        "name:kn": "ಹಿರೆಕಬ್ಬಿಗೆರೆ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2840795,
+          14.3476226
+        ]
+      },
+      "id": "node/2966389252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603340737",
+        "name": "Baligatte",
+        "name:kn": "ಬಳಿಗಟ್ಟೆ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2863666,
+          14.3101581
+        ]
+      },
+      "id": "node/3603340737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603340738",
+        "name": "Biravara",
+        "name:kn": "ಬೀರಾವರ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.301067,
+          14.2928614
+        ]
+      },
+      "id": "node/3603340738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603340740",
+        "name": "Channayyanahatti",
+        "name:kn": "ಚನ್ನಯ್ಯನಹಟ್ಟಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3419763,
+          14.2676803
+        ]
+      },
+      "id": "node/3603340740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603340749",
+        "name": "Kurubarahatti",
+        "name:kn": "ಕುರುಬರಹಟ್ಟಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3426649,
+          14.2883841
+        ]
+      },
+      "id": "node/3603340749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603340751",
+        "name": "Papenahalli",
+        "name:kn": "ಪಾಪೇನಹಳ್ಳಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3432699,
+          14.3060234
+        ]
+      },
+      "id": "node/3603340751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3686012839",
+        "name": "Sibara",
+        "name:kn": "ಸೀಬಾರ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3462377,
+          14.2592069
+        ]
+      },
+      "id": "node/3686012839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741274906",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3505209,
+          14.2856272
+        ]
+      },
+      "id": "node/4741274906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741274907",
+        "name": "Hirekabbigere Gollarahatti",
+        "name:kn": "ಹಿರೆಕಬ್ಬಿಗೆರೆ ಗೊಲ್ಲರಹಟ್ಟಿ",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2873455,
+          14.3323559
+        ]
+      },
+      "id": "node/4741274907"
+    }
+  ]
+}
